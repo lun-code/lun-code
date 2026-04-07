@@ -27,7 +27,7 @@ Me gusta aprender nuevas herramientas, mejorar mis prácticas de desarrollo y co
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap)
 
 ### Bases de datos
 
