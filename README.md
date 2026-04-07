@@ -13,7 +13,7 @@ Me gusta aprender nuevas herramientas, mejorar mis prácticas de desarrollo y co
 ## 🚀 Sobre mí
 
 * 💻 Desarrollo **backend** con Java, Spring Boot, PHP y Symfony
-* 🎨 Desarrollo **frontend** con React, JavaScript, HTML5, CSS3 y Tailwind
+* 🎨 Desarrollo **frontend** con Angular, TypeScript, React, JavaScript, HTML5, CSS3 y Tailwind
 * 🗄 Trabajo con bases de datos **PostgreSQL** y **MySQL**
 * 🛠 Uso herramientas como **Git, GitHub, Docker, Postman, VSCode e IntelliJ IDEA**
 
